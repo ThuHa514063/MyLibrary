@@ -27,3 +27,5 @@
 ![B5](<img/down b5.jpg>) Chọn Install rồi đợi cài đặt ESP-IDF, thời gian đợi tầm 10-15 phút
 
 ![B6](<img/down b6.jpg>) Chọn Finish
+
+![alt text](IMG/downB7.jpg)
