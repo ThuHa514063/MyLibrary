@@ -77,7 +77,7 @@ Trong: https://drive.google.com/drive/folders/1LGvL_WyAwU0z-d0AJixj9mp80m07RM1k
 
 ![alt text](<IMG/downB7.jpg>) 
 
-Sau khi tải xong trên màn hình chính của máy tính sẽ xuất hiện 2 file: ESP-IDF 5.5 PowerShell và ESP-IDF 5.5 CMD. 2 file này sẽ được mở lên tự động ngay sau khi hoàn tất quá trình tải.
+Sau khi tải xong trên màn hình chính của máy tính sẽ xuất hiện 2 file: `ESP-IDF 5.5 PowerShell` và `ESP-IDF 5.5 CMD`. 2 file này sẽ được mở lên tự động ngay sau khi hoàn tất quá trình tải.
 
 ![alt text](IMG/downB8.jpg)
 
@@ -95,11 +95,21 @@ Sau khi tải xong trên màn hình chính của máy tính sẽ xuất hiện 2
 
 IDF sử dụng bằng cách gõ lệnh trên **PoweShell** của IDF. Các bước và lệnh cơ bản như sau:
 
-- Trỏ vào vị trí thư mục cần chạy code, lệnh: cd "<Đường dẫn vào thư mục>" sau đó Enter. Nếu như bạn lưu **ESP-IDF** (ở bước 4) cùng folder với file muốn chạy code thì không cần mục này.
+- Trỏ vào vị trí thư mục cần chạy code, bạn gõ lệnh sau đó Enter. Nếu như bạn lưu **ESP-IDF** (ở bước 4) cùng folder với file muốn chạy code thì không cần mục này. Lệnh: 
+```
+cd "<Đường dẫn vào thư mục>" 
+```
 
-- Mở file code trong thư mục để chạy, lệnh: ```code .``` sau đó Enter.
+- Mở file code trong thư mục để chạy, lệnh: 
+```
+code .
+``` 
+sau đó Enter.
 
-***Ví dụ:*** ```cd "F:\ThuHa\MADATEK\xiaozhi-esp32-2.2.3"```
+***Ví dụ:*** 
+```
+cd "F:\ThuHa\MADATEK\xiaozhi-esp32-2.2.3"
+```
 
 ![alt text](IMG/golenhidf.jpg)
 
