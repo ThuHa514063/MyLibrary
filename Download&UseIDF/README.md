@@ -18,20 +18,18 @@ Trong: https://drive.google.com/drive/folders/1LGvL_WyAwU0z-d0AJixj9mp80m07RM1k
 
 ### Tải xuống như bình thường cho tới khi xuất hiện nút **"Finish"**
 
-![Chọn OK](<IMG/downB1.jpg>) Chọn OK
+![alt text](IMG/downB1.jpg) Chọn OK
 
-![B2](<IMG/downB2.jpg>) Chọn "I accept the agreement" rồi Next
+![alt text](IMG/downb2.jpg) Chọn "I accept the agreement" rồi Next
 
-![B3](<IMG/downB3.jpg>) Chọn Next
+![alt text](IMG/downB3.jpg) Chọn Next
 
-![B4](<IMG/downB4.jpg>) Chọn Next
+![alt text](IMG/downB4.jpg) Chọn Next
 
-![B5](IMG/downB5.jpg) Chọn Next
+![alt text](IMG/downB5.jpg) Chọn Next
 
-![B6](IMG/downB6.jpg) Chọn Next
- 
-![B7](<IMG/downB8.jpg>) Chọn Install rồi đợi cài đặt ESP-IDF, thời gian đợi tầm 10-15 phút
+![alt text](IMG/downB6.jpg) Chọn Install rồi đợi cài đặt ESP-IDF, thời gian đợi tầm 10-15 phút
 
-![B8](<IMG/downB9.jpg>) Chọn Finish
+![alt text](<IMG/downB7.jpg>) Chọn Finish
 
-![B9](IMG/downB10.jpg) Sau khi tải xong trên màn hình chính của máy tính sẽ xuất hiện 2 file này
+![alt text](IMG/downB8.jpg) Sau khi tải xong trên màn hình chính của máy tính sẽ xuất hiện 2 file này
