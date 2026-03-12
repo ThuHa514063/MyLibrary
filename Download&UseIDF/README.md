@@ -32,4 +32,6 @@ Trong: https://drive.google.com/drive/folders/1LGvL_WyAwU0z-d0AJixj9mp80m07RM1k
 
 ![alt text](<IMG/downB7.jpg>) Chọn Finish
 
-![alt text](IMG/downB8.jpg) Sau khi tải xong trên màn hình chính của máy tính sẽ xuất hiện 2 file này
+Sau khi tải xong trên màn hình chính của máy tính sẽ xuất hiện 2 file: ESP-IDF 5.5 PowerShell và ESP-IDF 5.5 CMD. 2 file này sẽ được mở lên tự động ngay sau khi hoàn tất quá trình tải.
+
+![alt text](IMG/downB8.jpg)
